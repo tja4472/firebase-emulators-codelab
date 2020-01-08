@@ -6,9 +6,9 @@ The project is based on https://github.com/firebase/emulators-codelab which is u
 
 ## Setup
 
-Add the following files:
+### Add the following files:
 
-### .firebaserc
+#### .firebaserc
 
 ```json
 {
@@ -18,13 +18,21 @@ Add the following files:
 }
 ```
 
-### functions/firebase-info.js
+#### functions/firebase-info.js
 
 ```js
 const PROJECT_ID = "your real Firebase Project ID";
 module.exports = {
   PROJECT_ID
 };
+```
+
+### Terminal
+
+```sh
+npm install
+cd functions
+npm install
 ```
 
 ## Run
