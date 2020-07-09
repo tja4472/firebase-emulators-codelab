@@ -1,4 +1,10 @@
 {
+  "name": "firebase-emulators-codelab",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tja4472/firebase-emulators-codelab"
+  },
   "scripts": {
     "emulators:start": "firebase emulators:start",
     "version": "firebase --version"
