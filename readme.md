@@ -23,7 +23,7 @@ The project is based on https://github.com/firebase/emulators-codelab which is u
 ```js
 const PROJECT_ID = "your real Firebase Project ID";
 module.exports = {
-  PROJECT_ID
+  PROJECT_ID,
 };
 ```
 
@@ -44,4 +44,5 @@ npm install
 
 - [firebase-admin-node](https://github.com/firebase/firebase-admin-node/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 - [firebase-js-sdk](https://github.com/firebase/firebase-js-sdk/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
-- [firebase-tools](https://github.com/firebase/firebase-tools/issues?q=is%3Aissue+sort%3Aupdated-desc+is%3Aopen) -[firebase-functions-test](https://github.com/firebase/firebase-functions-test/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
+- [firebase-tools](https://github.com/firebase/firebase-tools/issues?q=is%3Aissue+sort%3Aupdated-desc+is%3Aopen) 
+- [firebase-functions-test](https://github.com/firebase/firebase-functions-test/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
