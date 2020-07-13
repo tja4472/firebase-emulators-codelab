@@ -19,7 +19,6 @@ const { PROJECT_ID } = require('./firebase-info');
 const TEST_FIREBASE_PROJECT_ID = "test-firestore-rules-project";
 
 // TODO: Change this to your real Firebase Project ID
-// const REAL_FIREBASE_PROJECT_ID = "emulators-codelab-a5a89";
 const REAL_FIREBASE_PROJECT_ID = PROJECT_ID;
 
 const firebase = require("@firebase/testing");
